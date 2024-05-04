@@ -1,1 +1,2 @@
-Hi ...
+Hi
+Some part is updated
